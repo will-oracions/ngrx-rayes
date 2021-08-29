@@ -2,8 +2,8 @@
   "name": "ngrx-rayes",
   "version": "1.0.1",
   "description": "Manage ngrx process and provide reusable generic classes that contains base code for actions, effects, selectors and reducer about crud operation",
-  "main": "./lib/index.ts",
-  "types": "./lib/index.d.ts",
+  "main": "./lib/src/index.ts",
+  "types": "./lib/src/index.d.ts",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
