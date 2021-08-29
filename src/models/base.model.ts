@@ -1,3 +1,3 @@
 export class BaseModel {
-  constructor(public Id: any) {}
+  constructor(public id: any) {}
 }
